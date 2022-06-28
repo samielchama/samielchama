@@ -1,4 +1,4 @@
-### Olá !, Eu sou a Samia El Chama 👋
+### Olá, eu sou a Samia El Chama 👋
 
 
 
