@@ -6,7 +6,7 @@
 - 🌱 Estudando JavaScript
 - 💬 Contate-me via: 
   email: samia_chama@hotmail.com 
-  Discord: haise#1111
+  Discord: iskai.exe
 
 <div align="center">
   <a href="https://github.com/samielchama">
